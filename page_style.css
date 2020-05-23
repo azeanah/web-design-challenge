@@ -44,6 +44,7 @@ body {
 
 .top_menu {
   background-color: white;
+  text-align: right;
 }
 
 .dropdown {
@@ -55,7 +56,7 @@ body {
   display: none;
 }
 
-.dropdown:hover .dropdown_content {display: display-listitem;}
+.dropdown:hover .dropdown_content {display: block;}
 
 .comparisons {
   right: 5px;
