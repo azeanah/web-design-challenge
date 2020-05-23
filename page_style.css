@@ -48,15 +48,19 @@ body {
 }
 
 .dropdown {
+  position: relative;
   text-align: right;
   display: inline-block;
 }
 
 .dropdown_content {
   display: none;
+  position: absolute;
 }
 
-.dropdown:hover .dropdown_content {display: block;}
+.dropdown:hover .dropdown_content {
+  display: block;
+}
 
 .comparisons {
   right: 5px;
