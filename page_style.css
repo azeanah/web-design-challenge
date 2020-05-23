@@ -53,6 +53,7 @@ body {
 
 .dropdown_content {
   display: none;
+  position: absolute;
 }
 
 .dropdown:hover .dropdown_content {display: block;}
