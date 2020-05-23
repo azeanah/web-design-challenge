@@ -50,6 +50,10 @@ body {
   text-align: right;
 }
 
+.dropdown_content {
+  display: none;
+}
+
 .comparisons {
   right: 5px;
 }
