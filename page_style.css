@@ -55,7 +55,7 @@ body {
   display: none;
 }
 
-.dropdown:hover .dropdown_content {display: list-item;}
+.dropdown:hover .dropdown_content {display: display-listitem;}
 
 .comparisons {
   right: 5px;
