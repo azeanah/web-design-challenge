@@ -1,6 +1,6 @@
 h1 {
-  text-align: center;
-  background-color: grey;
+  text-align: left;
+  background-color: whitesmoke;
   color: blue;
 }
 
@@ -28,4 +28,35 @@ p {
 ul {
   border-style: solid;
   color: gray;
+}
+
+.main {
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.top_menu {
+  background-color: white;
+}
+
+.dropdown {
+  text-align: right;
+}
+
+.comparisons {
+  right: 5px;
+}
+
+.plots {
+  display: grid;
+  grid-template-columns: repeat(2);
+  grid-template-rows: repeat(2);
+  grid-gap: 10px;
 }
