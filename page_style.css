@@ -72,3 +72,13 @@ body {
   grid-template-rows: repeat(2);
   grid-gap: 10px;
 }
+
+.data {
+  display: table;
+  position: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 20 px;
+  background-color: white;
+}
