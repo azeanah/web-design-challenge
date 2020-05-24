@@ -73,7 +73,7 @@ body {
   grid-gap: 10px;
 }
 
-.data {
+.data_table {
   display: table;
   position: center;
   padding-left: 10px;
