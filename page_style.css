@@ -66,6 +66,10 @@ body {
   right: 5px;
 }
 
+.data {
+  right: 5px;
+}
+
 .plots {
   display: grid;
   grid-template-columns: repeat(2);
